@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://speedposttracking.vercel.app/sitemap.xml
+
+# Block access to sensitive files
+Disallow: /api/
+Disallow: /.well-known/
