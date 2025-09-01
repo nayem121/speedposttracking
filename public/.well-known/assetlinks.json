@@ -1,0 +1,15 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls",
+      "delegate_permission/common.get_login_creds"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.nuc.speedposttracking",
+      "sha256_cert_fingerprints": [
+        "74:84:C9:B9:AC:E9:08:10:07:F2:FD:1F:52:79:BD:CB:33:BE:08:76:8D:4C:0E:80:49:7E:5A:B2:67:77:BA:65"
+      ]
+    }
+  }
+]
